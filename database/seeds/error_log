@@ -1,0 +1,1 @@
+[23-Dec-2016 04:41:34 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/yallaboo/public_html/gaithapi/database/seeds/DatabaseSeeder.php on line 6

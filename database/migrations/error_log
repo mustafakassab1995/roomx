@@ -1,0 +1,8 @@
+[23-Dec-2016 04:41:21 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/yallaboo/public_html/gaithapi/database/migrations/2014_10_12_000000_create_users_table.php on line 8
+[23-Dec-2016 04:41:22 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/yallaboo/public_html/gaithapi/database/migrations/2016_12_08_204643_create_rooms_table.php on line 8
+[23-Dec-2016 04:41:22 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/yallaboo/public_html/gaithapi/database/migrations/2016_12_08_205453_create_room_photos_table.php on line 8
+[23-Dec-2016 04:41:22 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/yallaboo/public_html/gaithapi/database/migrations/2016_12_08_205728_create_room_ratings_table.php on line 8
+[23-Dec-2016 04:41:22 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/yallaboo/public_html/gaithapi/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 8
+[23-Dec-2016 04:41:26 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/yallaboo/public_html/gaithapi/database/migrations/2016_12_08_210030_create_room_reservations_table.php on line 8
+[23-Dec-2016 04:41:28 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/yallaboo/public_html/gaithapi/database/migrations/2016_12_08_210142_create_likes_table.php on line 8
+[23-Dec-2016 04:41:30 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/yallaboo/public_html/gaithapi/database/migrations/2016_12_08_210703_create_allkeys.php on line 8

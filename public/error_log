@@ -1,0 +1,12 @@
+[16-Dec-2016 16:50:42 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 245
+[17-Dec-2016 01:20:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/yallaboo/public_html/gaithapi/routes/api.php on line 33
+[13-Jan-2017 20:00:17 UTC] PHP Fatal error:  Can't use method return value in write context in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 278
+[13-Jan-2017 20:00:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 278
+[13-Jan-2017 20:00:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 278
+[13-Jan-2017 20:00:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 278
+[13-Jan-2017 20:00:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 278
+[13-Jan-2017 20:00:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 278
+[16-Jan-2017 12:21:55 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 494
+[21-Jan-2017 15:09:33 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 308
+[21-Jan-2017 15:52:53 UTC] PHP Fatal error:  Class 'App\Likes' not found in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 498
+[21-Jan-2017 17:59:08 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 502

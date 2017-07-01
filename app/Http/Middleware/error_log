@@ -1,0 +1,2 @@
+[23-Dec-2016 05:04:07 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/yallaboo/public_html/gaithapi/app/Http/Middleware/EncryptCookies.php on line 8
+[23-Dec-2016 05:04:11 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/yallaboo/public_html/gaithapi/app/Http/Middleware/VerifyCsrfToken.php on line 8

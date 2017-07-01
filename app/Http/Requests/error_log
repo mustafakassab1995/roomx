@@ -1,0 +1,6 @@
+[23-Dec-2016 05:04:13 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/yallaboo/public_html/gaithapi/app/Http/Requests/LikeRequest.php on line 8
+[23-Dec-2016 05:04:13 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/yallaboo/public_html/gaithapi/app/Http/Requests/RoomPhotoRequest.php on line 8
+[23-Dec-2016 05:04:13 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/yallaboo/public_html/gaithapi/app/Http/Requests/RoomRatingRequest.php on line 8
+[23-Dec-2016 05:04:14 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/yallaboo/public_html/gaithapi/app/Http/Requests/RoomRequest.php on line 8
+[23-Dec-2016 05:04:15 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/yallaboo/public_html/gaithapi/app/Http/Requests/RoomReservationRequest.php on line 8
+[23-Dec-2016 05:04:15 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/yallaboo/public_html/gaithapi/app/Http/Requests/UserRequest.php on line 8

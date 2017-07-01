@@ -1,0 +1,2 @@
+[23-Dec-2016 04:32:01 UTC] PHP Fatal error:  Class 'TestCase' not found in /home/yallaboo/public_html/gaithapi/tests/ExampleTest.php on line 8
+[23-Dec-2016 04:32:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/yallaboo/public_html/gaithapi/tests/TestCase.php on line 4

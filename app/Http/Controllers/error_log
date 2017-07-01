@@ -1,0 +1,7 @@
+[23-Dec-2016 05:04:02 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/AuthController.php on line 19
+[23-Dec-2016 05:04:03 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/Controller.php on line 11
+[23-Dec-2016 05:04:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/LikeController.php on line 8
+[23-Dec-2016 05:04:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/RoomPhotoController.php on line 8
+[23-Dec-2016 05:04:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/RoomController.php on line 8
+[23-Dec-2016 05:04:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/RoomRatingController.php on line 8
+[23-Dec-2016 05:04:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/yallaboo/public_html/gaithapi/app/Http/Controllers/RoomReseravtionController.php on line 8

@@ -1,0 +1,5 @@
+[23-Dec-2016 04:40:42 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/yallaboo/public_html/gaithapi/app/Providers/AppServiceProvider.php on line 8
+[23-Dec-2016 04:40:42 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/yallaboo/public_html/gaithapi/app/Providers/AuthServiceProvider.php on line 9
+[23-Dec-2016 04:40:43 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/yallaboo/public_html/gaithapi/app/Providers/BroadcastServiceProvider.php on line 9
+[23-Dec-2016 04:40:43 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/yallaboo/public_html/gaithapi/app/Providers/RouteServiceProvider.php on line 9
+[23-Dec-2016 04:40:43 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/yallaboo/public_html/gaithapi/app/Providers/EventServiceProvider.php on line 9

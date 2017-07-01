@@ -1,0 +1,1 @@
+[23-Dec-2016 04:40:18 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/yallaboo/public_html/gaithapi/app/Console/Kernel.php on line 9

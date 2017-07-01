@@ -1,0 +1,1 @@
+[23-Dec-2016 04:40:29 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/yallaboo/public_html/gaithapi/app/Http/Kernel.php on line 8

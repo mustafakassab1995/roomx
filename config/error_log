@@ -1,0 +1,10 @@
+[23-Dec-2016 04:31:04 UTC] PHP Fatal error:  Call to undefined function env() in /home/yallaboo/public_html/gaithapi/config/app.php on line 28
+[23-Dec-2016 04:31:05 UTC] PHP Fatal error:  Call to undefined function env() in /home/yallaboo/public_html/gaithapi/config/broadcasting.php on line 18
+[23-Dec-2016 04:31:05 UTC] PHP Fatal error:  Call to undefined function env() in /home/yallaboo/public_html/gaithapi/config/cache.php on line 18
+[23-Dec-2016 04:31:10 UTC] PHP Fatal error:  Call to undefined function env() in /home/yallaboo/public_html/gaithapi/config/database.php on line 29
+[23-Dec-2016 04:31:12 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/yallaboo/public_html/gaithapi/config/filesystems.php on line 48
+[23-Dec-2016 04:31:13 UTC] PHP Fatal error:  Call to undefined function env() in /home/yallaboo/public_html/gaithapi/config/mail.php on line 19
+[23-Dec-2016 04:31:13 UTC] PHP Fatal error:  Call to undefined function env() in /home/yallaboo/public_html/gaithapi/config/queue.php on line 18
+[23-Dec-2016 04:31:13 UTC] PHP Fatal error:  Call to undefined function env() in /home/yallaboo/public_html/gaithapi/config/services.php on line 18
+[23-Dec-2016 04:31:14 UTC] PHP Fatal error:  Call to undefined function base_path() in /home/yallaboo/public_html/gaithapi/config/view.php on line 17
+[23-Dec-2016 04:31:14 UTC] PHP Fatal error:  Call to undefined function env() in /home/yallaboo/public_html/gaithapi/config/session.php on line 19

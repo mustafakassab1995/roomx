@@ -1,0 +1,1 @@
+[23-Dec-2016 04:30:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/yallaboo/public_html/gaithapi/bootstrap/app.php on line 14

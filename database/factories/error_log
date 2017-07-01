@@ -1,0 +1,1 @@
+[23-Dec-2016 04:41:11 UTC] PHP Fatal error:  Call to a member function define() on null in /home/yallaboo/public_html/gaithapi/database/factories/ModelFactory.php on line 15
